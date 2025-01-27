@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-I am a dynamic and results-driven Power BI Developer with a proven track record in delivering impactful data-driven solutions.
+## I am a dynamic and results-driven Power BI Developer with a proven track record in delivering impactful data-driven solutions.
 
 **About me**
 
