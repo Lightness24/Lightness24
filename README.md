@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- "Hero" Header -->
 
-<p align="center"><a href="https://ligntness-cartier.vercel.app/"><img width="80%" alt="Hello, I'm Lightness Cartier, A Power BI Developer" src="./assets/gh-readme-header.png" /></a></p>
+# Hi, I'm Lightness Cariter 👋🏾 👩🏾‍💻
+
 
 <br />
 
